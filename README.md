@@ -27,12 +27,11 @@ This parser can:
 ## 🚀 Getting Started
 
 ### 1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/ParseMaster.git
-cd ParseMaster
+    git clone https://github.com/yourusername/ParseMaster.git
+    cd ParseMaster
 
-2. Place LexicalAnalyzer.c in the same folder:
-⚠️ This project requires the lexical analyzer code from LexiScan. Make sure LexicalAnalyzer.c is in this directory.
+### 2. Place LexicalAnalyzer.c in the same folder:
+⚠️ This project requires the lexical analyzer code from [LexiScan] (https://github.com/abhinavrajgupta/LexiScan). Make sure lex.c and lex.h is in this directory.
 
 
 🧠 Learn More
