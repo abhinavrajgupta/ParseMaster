@@ -41,10 +41,11 @@ This parser can:
     ./parser input.txt/
 
 
-🧠 Learn More
+## 🧠 Learn More
 To learn more about how this parser works and how it's tied to compiler design theory, check out the visual BNF rule file (BNF_Rules.png) and inline code comments.
 
-📎 Related Projects
+
+## 📎 Related Projects
 🔤 LexiScan – The lexical analyzer that feeds tokens into ParseMaster: [LexiScan repository](https://github.com/abhinavrajgupta/LexiScan)
 
 
