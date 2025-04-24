@@ -15,13 +15,14 @@ This parser can:
 
 ## 🔧 Requirements
 - GCC or any standard C compiler
-- The **LexicalAnalyzer.c** file from the [LexiScan repository](https://github.com/abhinavrajgupta/LexiScan)
+- The **lex.c** file from the [LexiScan repository](https://github.com/abhinavrajgupta/LexiScan)
 
 ## 📁 File Structure
-/ParseMaster ├── parser.c # Main syntax parser implementation 
-             ├── parser.h  
-             ├── BNF_Rules.png # Visual reference of the grammar rules 
-             ├── README.md # You're reading it!
+/ParseMaster
+├── parser.c # Main syntax parser implementation
+├── parser.h # Header file for parser declarations
+├── BNF_Rules.png # Visual reference of the grammar rules
+├── README.md # You're reading it!
 
 
 ## 🚀 Getting Started
