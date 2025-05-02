@@ -227,7 +227,6 @@ void error()
 // Main Function to drive the parser and display different error messages
 int main(int argc, char *argv[]) 
 {
-    printf("Cooke Parser :: R11848979\n");
     if (argc < 2) 
     {
         fprintf(stderr, "Error: No input file found.\n");
